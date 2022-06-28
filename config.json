@@ -1,0 +1,9 @@
+{
+	"ip":"WarnetKenangan.aternos.me",
+	"port": "29379",
+	"name": "Asuna_BOT",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass1234 ",
+	"login-cmd":"/login pass1234 "
+}
